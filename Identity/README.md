@@ -5,7 +5,7 @@
 
 3.Azure Security テクノロジーをソリューションとして活用するための支援活動
 
-- 活動期間:2021 年 10 月 25 日～ 2022 年 6 月 30 日
+活動期間:2021 年 10 月 25 日～ 2022 年 6 月 30 日
 
 > 本ページに記載されている内容は技術的なコンテンツ開発活動にける参考ページであり、検証途中のものを含む場合があります。
 
@@ -22,6 +22,7 @@
 [Azure AD による適応型アクセス制御の現在](https://qiita.com/NIWAnatsuko/private/7a444317af09e4922584)
 
 - ADFS からの移行
+
 [ADFS からのアプリ認証移行が必要な理由](https://qiita.com/hiroakimurata/items/7365532a92c5c9b57474)
 
 [ADFS からアプリケーション認証移行を設計する前に知っておきたい事](https://qiita.com/hiroakimurata/items/f18c63ca6497a8d32b77)
