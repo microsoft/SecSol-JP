@@ -8,6 +8,7 @@
 
 ## ZDNET 連載記事
 - 「失敗しないゼロトラストの進め方～セキュアハイブリッドワークの現実解」
+
 [第1話：ゼロトラストの理想と現実](https://qiita.com/hiroakimurata/items/bde4f97ba2e53e8f3224)
 
 ## Qiita ブログ
